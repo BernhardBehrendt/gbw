@@ -1,4 +1,4 @@
-# Goodbye WhatsApp migration image
+# Goodbye WhatsApp
 
 ## Status and/or profile image to inform contacts
 
